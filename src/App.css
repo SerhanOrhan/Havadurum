@@ -1,0 +1,68 @@
+
+.dark{
+    background-color: black;
+  
+  }
+  .light{
+    background-color: #ddd;
+    color: #555;
+  }
+
+.regular-list-card{
+width: 100%;
+align-items: center;
+justify-content: center;
+}
+.table-header{
+margin: 10px;
+padding: 10px;
+background-color:skyblue;
+}
+.table-header tr th{
+  text-decoration: none;
+  list-style: none;
+  font-size: 16px;
+  font-weight: 800;
+}
+.table-body tr td{
+  font-size: 14px;
+  align-items: center;
+
+}
+.dark-mode{
+  width: 100px;
+  height: 25px;
+  margin-bottom: 10px;
+  margin-left: 15px;
+  border-radius: 5px;
+}
+.header-menu{
+margin: 0;
+padding: 0;
+height: 25px;
+}
+.navbar-brand img{
+height: 20px;  
+margin: 0;
+padding: 0;
+width: 30px;
+height: 30px;
+}
+ a.navbar-brand{
+  font-size: 25px;
+}
+.search-space{
+  width: 500px;
+  font-size: 15px;
+  height: 34px;
+}
+button.search-button{
+ height: 30px;
+ border-radius: 5px;
+ margin-left: 2px;
+  width: 70px;
+  height: 34px;
+  
+ 
+
+}
